@@ -2,7 +2,7 @@
 ## Tugas Melengkapi Praktikum 2
 | Nama | kelas | Nim | Matkul |
 | -- | --- | ---- | ----------- |
-| Muhammad Dzamar nawaf fatih firdaus |TI.22.A4| 312010477 | Bahasa Pemrograman |
+|  Dzamar nawaf fatih firdaus |TI.22.A4| 312010477 | Bahasa Pemrograman |
 
 ## langkah membuat program sederhana menampilkan bilangan terbesar dari 3 buah bilangan menggunakan statement if
 
